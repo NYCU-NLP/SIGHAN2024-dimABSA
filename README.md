@@ -406,16 +406,16 @@ where Precision (P) is defined as the percentage of triplets/quadruples extracte
 ## Citation
 
 
-Lung-Hao Lee, Liang-Chih Yu, Suge Wang, and Jian Liao. 2024. Overview of the SIGHAN 2024 Shared Task for Chinese Dimensional Aspect-Based Sentiment Analysis. In *Proceedings of the 10th SIGHAN Workshop on Chinese Language Processing*.
+Lung-Hao Lee, Liang-Chih Yu, Suge Wang, and Jian Liao. 2024. Overview of the SIGHAN 2024 Shared Task for Chinese Dimensional Aspect-Based Sentiment Analysis. In *Proceedings of the 10th SIGHAN Workshop on Chinese Language Processing*, pp. 165-174.https://aclanthology.org/2024.sighan-1.19/
 
 @ARTICLE{Lee-SIGHAN-2024,<br>
 &emsp;&emsp;&emsp;&emsp;author  = {Lung-Hao Lee, Liang-Chih Yu, Suge Wang, and Jian Liao},<br>
 &emsp;&emsp;&emsp;&emsp;title   = {Overview of the SIGHAN 2024 Shared Task for Chinese Dimensional Aspect-Based Sentiment Analysis},<br>
 &emsp;&emsp;&emsp;&emsp;proceedings = {Proceedings of the 10th SIGHAN Workshop on Chinese Language Processing},<br>
-&emsp;&emsp;&emsp;&emsp;pages   = ,<br>
+&emsp;&emsp;&emsp;&emsp;pages   = {165-174},<br>
 &emsp;&emsp;&emsp;&emsp;month   = aug,<br>
 &emsp;&emsp;&emsp;&emsp;year    = 2024,<br>
-&emsp;&emsp;&emsp;&emsp;url     = { }<br>
+&emsp;&emsp;&emsp;&emsp;url     = {https://aclanthology.org/2024.sighan-1.19/}<br>
 }   
 
 ## Reference
